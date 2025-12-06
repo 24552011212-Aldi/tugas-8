@@ -1,6 +1,15 @@
 # tugas-8
-Aldi Alfariz
-24552011212
+```
+Name    : Aldi Alfariz 
+NIM     : 24552011212
+Kelas   : TIF RP-23 CNS A
+```
+
+**Login**
+```
+username: Sapi
+password: 123
+```
 
 ## CRUD postman Screenshot
 **test koneksi**
